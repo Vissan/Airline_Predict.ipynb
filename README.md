@@ -1,2 +1,2 @@
-# Airline_Predict.ipynb
+ipynb
 kaggle project of Airline Predict 
